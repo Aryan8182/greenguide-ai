@@ -92,13 +92,11 @@ Municipal waste rules, AQI advisories, and climate guidance exist — but they a
 
 ```text
 greenguide-ai/
-├── 📄 README.md                        # Comprehensive project documentation
+├── 📄 README.md                        # Comprehensive project documentation & guideline mapping
 ├── 🌐 prototype/
 │   └── greenguide.html                # Working single-file RAG chatbot (open in browser)
 ├── 📊 deck/
 │   └── GreenGuide_Project_Deck.pptx   # Final submission deck (SDG alignment, pipeline, impact)
-├── 🛠️ build/
-│   └── build_deck.js                  # pptxgenjs script used to generate presentation deck
 └── 🖼️ assets/
     └── prototype_screenshot.png       # Real UI screenshot of running prototype
 ```
@@ -192,7 +190,7 @@ This project adheres 101% to all 9 sections of the official **1M1B AI for Sustai
 * ✅ **Privacy:** 100% private; zero user data or personal identifiers collected.
 
 ### 8. Final Deliverables Checklist
-* ✅ **Presentation Deck:** `deck/GreenGuide_Project_Deck.pptx` (Generated via `build/build_deck.js`).
+* ✅ **Presentation Deck:** `deck/GreenGuide_Project_Deck.pptx` (Complete slide presentation).
 * ✅ **Working Prototype:** `prototype/greenguide.html` (Single-file HTML RAG demo).
 * ✅ **Architecture & Flow Diagrams:** Detailed ASCII and structured flowcharts in `README.md`.
 * ✅ **Impact Statement:** Complete social, municipal, and health impact analysis included.
