@@ -248,7 +248,7 @@ function pageNum(s, n) {
   const imgH = 4.7, imgW = imgH * (1200 / 820);
   const imgX = (13.33 - imgW) / 2, imgY = 2.15;
   s.addShape(pres.ShapeType.rect, { x: imgX - 0.06, y: imgY - 0.06, w: imgW + 0.12, h: imgH + 0.12, fill: { color: "FFFFFF" }, line: { color: LINE, width: 1 } });
-  s.addImage({ path: "/home/claude/prototype_screenshot.png", x: imgX, y: imgY, w: imgW, h: imgH });
+  s.addImage({ path: "../assets/prototype_screenshot.png", x: imgX, y: imgY, w: imgW, h: imgH });
   pageNum(s, 8);
 }
 

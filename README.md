@@ -107,13 +107,13 @@ greenguide-ai/
 
 ## 🚀 Running the Prototype
 
-No build step, node modules, or server setup required — it runs as a single self-contained application!
+No build step, node modules, or API key required — it runs out-of-the-box as a self-contained application!
 
-1. Open `prototype/greenguide.html` directly in any modern web browser.
-2. Ask any free-form question or click one of the suggested question chips.
-3. **Execution:** 
-   - The **Retrieval Step** runs client-side (keyword scoring over embedded knowledge base chunks).
-   - The **Generation Step** produces a grounded, cited answer based strictly on retrieved chunks.
+1. Open `prototype/greenguide.html` directly in any web browser.
+2. **Dual Execution Modes:**
+   - ⚡ **Offline Demo Mode (Default / No Key Needed):** Runs instant client-side RAG retrieval over embedded knowledge base chunks, returning grounded, cited responses with zero network calls.
+   - 🔑 **Live Model Mode (Optional):** Click *"Key configuration & offline mode"* to input an API key for live model generation.
+3. **Pipeline Execution:** The UI pipeline status bar tracks real-time progress through `Tokenized ➔ Retrieved ➔ Grounded ➔ Cited`.
 
 ---
 
