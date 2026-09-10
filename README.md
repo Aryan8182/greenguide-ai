@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://aryan8182.github.io/greenguide-ai/"><img src="https://img.shields.io/badge/Live%20Demo-🚀%20Open%20App-00F7FF?style=for-the-badge&logo=githubpages" alt="Live Demo"/></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/SDG%2013-Climate%20Action-green?style=for-the-badge&logo=unicef" alt="SDG 13"/>
   <img src="https://img.shields.io/badge/SDG%2012-Responsible%20Consumption-orange?style=for-the-badge" alt="SDG 12"/>
   <img src="https://img.shields.io/badge/SDG%2011-Sustainable%20Cities-blue?style=for-the-badge" alt="SDG 11"/>
